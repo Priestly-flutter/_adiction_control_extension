@@ -7,6 +7,15 @@
             "matches":["<all_urls>"],
             "js":["main.js"]
         }
-    ]
+    ],
+    "icons":{
+        "48":"icon-48.png",
+        "96": "icon-96.png"
+    },
+    "browser_action":{
+        "default_icon":{
+            "19":"icon-48.png"
+        }
+    }
 }
 
