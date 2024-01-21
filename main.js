@@ -1,0 +1,1 @@
+alert ("X-Control is up and running")
